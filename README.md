@@ -25,23 +25,27 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
- 📸![Screenshot 2024-02-08 144014](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/a4acbfff-49b2-4ea5-b3af-a676733abeb4)
+ 📸 ![Screenshot 2024-02-08 143955](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/2a0161e9-4537-4c8f-94f3-8b05757dce09)
 
-
- ![Screenshot 2024-02-08 143955](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/2a0161e9-4537-4c8f-94f3-8b05757dce09)
+ ![Screenshot 2024-02-08 144014](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/a4acbfff-49b2-4ea5-b3af-a676733abeb4)
 
 ### About Us -
 
+
 ![Screenshot 2024-02-08 144138](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/67a39f4c-5c9d-4f35-ad58-249ea591b595)
+
 
 ![Screenshot 2024-02-08 144447](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/c8dd4ae0-55e1-4382-84a9-41051b752ced)
 
 
 # Healthbot-
 ![Screenshot 2024-02-08 144306](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/9b34bd85-5c7a-41a9-a05d-f6da594d3840)
+
+
 ![Screenshot 2024-02-08 144235](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/7a46769f-995a-45ae-ae0d-245ef45adc86)
 
 # Contact
+
 ![Screenshot 2024-02-08 144407](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/e10f4d31-bf60-4d92-a24f-6956d1e42f5b)
 
 ## Tech Stack 💻
