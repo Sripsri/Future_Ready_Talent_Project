@@ -25,32 +25,30 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
- 📸![Screenshot 2024-02-08 142351](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/96a407fa-4835-404d-ba60-10d40160a501)
+ 📸![Screenshot 2024-02-08 144014](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/a4acbfff-49b2-4ea5-b3af-a676733abeb4)
 
-![Screenshot 2024-02-08 142416](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/0c79339b-b9c9-4295-b973-89308fb9c105)
 
- ![Screenshot 2024-02-08 142515](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/e14e83ef-3e91-4707-bbd9-5e6cfb6e8992)
-![Screenshot 2024-02-08 142451](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/8b392f82-37e0-4425-8625-ad096937a836)
-![Screenshot 2024-02-08 142438](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/643037c8-5c33-499e-845e-c3e67d6f66ed)
-
+ ![Screenshot 2024-02-08 143955](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/2a0161e9-4537-4c8f-94f3-8b05757dce09)
 
 ### About Us -
 
+![Screenshot 2024-02-08 144138](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/67a39f4c-5c9d-4f35-ad58-249ea591b595)
+
+![Screenshot 2024-02-08 144447](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/c8dd4ae0-55e1-4382-84a9-41051b752ced)
 
 
-![Screenshot 2024-02-08 142751](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/c77f5c87-c2e8-4ce9-84c7-ff72a43bed65)
+# Healthbot-
+![Screenshot 2024-02-08 144306](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/9b34bd85-5c7a-41a9-a05d-f6da594d3840)
+![Screenshot 2024-02-08 144235](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/7a46769f-995a-45ae-ae0d-245ef45adc86)
 
-
-
-### Privacy policy -
-
-
-
-
+# Contact
+![Screenshot 2024-02-08 144407](https://github.com/Sripsri/Future_Ready_Talent_Project/assets/152765236/e10f4d31-bf60-4d92-a24f-6956d1e42f5b)
 
 ## Tech Stack 💻
 
 - [[Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)](https://portal.azure.com/#@potlachervusrilatha7777gmai.onmicrosoft.com/resource/subscriptions/5ba0568f-e9dd-4862-9b04-6c4eaca76143/resourcegroups/FRT/providers/Microsoft.Web/staticSites/FRT-Project/staticsite)https://portal.azure.com/#@potlachervusrilatha7777gmai.onmicrosoft.com/resource/subscriptions/5ba0568f-e9dd-4862-9b04-6c4eaca76143/resourcegroups/FRT/providers/Microsoft.Web/staticSites/FRT-Project/staticsite
+
+- https://azure.microsoft.com/en-in/get-started/azure-portal/
 - HTML
 - CSS
 - Bootstrap
